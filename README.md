@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnaghaBaby123
 - 👀 I’m interested in Learning new things.
-- 🌱 I’m currently learning B.tech on Computer Science.
+- 🌱 I’m B.tech graduate in computer science and technology.
 - 📫 How to reach me am.anaghamb@gmail.com.
 
 <!---
