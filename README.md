@@ -6,7 +6,6 @@ class GitHubProfile:
         self.interests = interests
         self.skills = skills
         self.contact = contact
-
     def about_me(self):
         print(f"👋 Hi there! I'm {self.name}.")
         print("\n✨ Interests:")
