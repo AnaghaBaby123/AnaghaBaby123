@@ -1,4 +1,4 @@
-
+```python
 # GitHub Profile Introduction
 class GitHubProfile:
     def __init__(self, name, interests, skills, contact):
@@ -21,7 +21,7 @@ profile = GitHubProfile(
     name="Anagha Manikathuparambil Baby",
     interests=["Artificial Intelligence", "Machine Learning", "Data Science",]
     skills=["Python", "SQL", "Git"],
-    contact="am.anaghamb@example.com"
+    contact="am.anaghamb@gmail.com"
 )
 
 # Display profile details
