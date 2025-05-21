@@ -7,3 +7,7 @@
 
 ## 📫 How to reach me
 - Email: am.anaghamb@gmail.com
+<figure>
+  <img src="me.png" alt="Queue detection demo" width="600" />
+  
+</figure>
