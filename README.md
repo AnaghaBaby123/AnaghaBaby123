@@ -1,5 +1,8 @@
 # 👋 Hi there! I'm Anagha Manikathuparambil Baby
-
+<figure>
+  <img src="me.png" alt="me" width="300" />
+  
+</figure>
 ## ✨ Interests
 - Artificial Intelligence
 - Machine Learning
@@ -7,7 +10,4 @@
 
 ## 📫 How to reach me
 - Email: am.anaghamb@gmail.com
-<figure>
-  <img src="me.png" alt="Queue detection demo" width="600" />
-  
-</figure>
+
